@@ -1,0 +1,15 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "live-server --port=4300"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "boostrap": "^2.0.0",
+    "nodemon": "^2.0.3"
+  }
+}
